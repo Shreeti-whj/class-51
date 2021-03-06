@@ -1,0 +1,28 @@
+h1{
+    color: rgb(0, 1, 3);
+}
+/*{
+    //border:solid
+}
+*/
+.header{
+ background-color:peachpuff;
+ display:flex;
+ justify-content: space-evenly;
+}
+.item{
+    text-align: center;
+}
+.grid{display:flex;
+flex-wrap:wrap;
+justify-content:space-evenly;
+}
+p,h2{
+    text-align:center;
+}
+body{
+    background-color: #b57a63;
+    font-family: cursive;
+    color:lightcyan;
+    font-size: 20;
+}
